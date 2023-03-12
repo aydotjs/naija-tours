@@ -1,0 +1,28 @@
+[
+    {
+    "img": "../assets/images/travel-4.jpg",
+    "alt": "Ibadan metropolis",
+    "name": "Ibadan Metropolis",
+    "button": "View Destination"
+    },
+    {
+    "img": "../assets/images/travel-1.jpg",
+    "alt": "Sahara Desert",
+    "name": "Sahara Desert",
+    "button": "View Destination"
+    },
+    {
+    "img": "../assets/images/travel-3.jpg",
+    "alt": "Tia Tan Buddha Mountain",
+    "name": "Tia Tan Buddha Mountain",
+    "button": "View Destination"
+    },
+    {
+    "img": "../assets/images/travel-2.jpg",
+    "alt": "Ad Deir Forest",
+    "name": "Ad Deir Forest",
+    "button": "View Destination"
+    }
+
+
+]
